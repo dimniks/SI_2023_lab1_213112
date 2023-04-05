@@ -1,0 +1,36 @@
+commit 5bf2551fda0d7a7b2b0ead384f249cad06cd4df3 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: dimniks <distojkov@gmail.com>
+Date:   Wed Apr 5 14:12:11 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit e5e1a3b88e4de8eb2d77849988a8ceb8a4a905de
+Merge: bdff976 eb02ed4
+Author: dimniks <distojkov@gmail.com>
+Date:   Wed Apr 5 14:20:04 2023 +0200
+
+    Merge branch 'bug2'
+
+commit eb02ed4113f552668cb0c35028ff6f97cf41c6ed (origin/bug2, bug2)
+Author: dimniks <distojkov@gmail.com>
+Date:   Wed Apr 5 14:08:40 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit bdff9763bfb369db1d672a2baea285b5b4b0742e (origin/bug1, bug1)
+Author: dimniks <distojkov@gmail.com>
+Date:   Wed Apr 5 13:56:52 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 351840e2fd660b67c38b3ac3081246b5e87379a5
+Author: dimniks <distojkov@gmail.com>
+Date:   Wed Apr 5 13:01:13 2023 +0200
+
+    Add java class
+
+commit 55a859974e12c6ceca597f8a221c37970b8c6bef
+Author: dimniks <distojkov@gmail.com>
+Date:   Wed Apr 5 12:51:11 2023 +0200
+
+    Initial commit
